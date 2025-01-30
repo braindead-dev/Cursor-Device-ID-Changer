@@ -2,6 +2,8 @@
 
 This script is a simple tool designed to modify the device IDs used by the Cursor editor. It can be useful if frequent account switching causes your device to become locked. By running this script, you can reset these IDs.
 
+### NOTE: No longer working for 0.45
+
 ## Features
 
 - Automatically generate new random device IDs
